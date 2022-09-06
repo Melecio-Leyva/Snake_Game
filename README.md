@@ -1,2 +1,2 @@
 # Snake_Game
-Snake game OOP
+Snake game OOP day 21 of 100 days of programming
